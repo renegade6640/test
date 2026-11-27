@@ -1,0 +1,19 @@
+{
+  "name": "bizworx-shorts",
+  "private": true,
+  "version": "1.0.0",
+  "description": "BizWorx branded short-form video template (script in, MP4 out)",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "@fontsource/space-grotesk": "5.1.0",
+    "@remotion/cli": "4.0.399",
+    "@remotion/renderer": "4.0.399",
+    "@remotion/bundler": "4.0.399",
+    "remotion": "4.0.399",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "watermark": "bizworxfinancial.com",
+  "scenes": [
+    {
+      "card": { "icon": "alert", "label": "Losing money?", "sublabel": "and you don't know it yet", "theme": "light" },
+      "caption": "most business owners find out they're losing money ^^6 months too late^^",
+      "seconds": 3.6
+    },
+    {
+      "card": { "icon": "bank", "label": "Bank feed", "sublabel": "connected once", "theme": "light" },
+      "caption": "here's the **system** we set up *instead*",
+      "seconds": 3
+    },
+    {
+      "card": { "icon": "receipt", "label": "Auto-categorized", "sublabel": "every transaction", "theme": "light" },
+      "caption": "every transaction gets **categorized** ==automatically==",
+      "seconds": 3.2
+    },
+    {
+      "card": { "icon": "chart", "label": "Profit report", "sublabel": "on the 1st of every month", "theme": "light" },
+      "caption": "your profit report shows up on the **1st** of *every* month",
+      "seconds": 3.4
+    },
+    {
+      "card": { "icon": "check", "label": "Decisions made", "theme": "dark" },
+      "caption": "so you make decisions with ==real numbers== not ^^guesses^^",
+      "seconds": 3.4
+    }
+  ],
+  "cta": {
+    "above": "comment **CLARITY** and I'll send you the *checklist*",
+    "below": "it only *goes* to ^^followers^^",
+    "seconds": 4
+  }
+}
